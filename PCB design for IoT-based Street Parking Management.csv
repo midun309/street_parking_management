@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"ESP32-WROOM-32";1;"ESP32-WROOM-32";;;
+2;"U6";"SOT-223-3_TabPin2";1;"AMS1117";;;
+3;"U3";"QFN-28-1EP_6x6mm_P0.65mm_EP4.8x4.8mm";1;"SX1278";;;
+4;"U1";"Quectel_BG95";1;"BG95-M1";;;
